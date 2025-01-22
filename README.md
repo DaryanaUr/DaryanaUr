@@ -25,7 +25,7 @@ Hi there! I'm Daryana, a Biomedical Engineer passionate about Artificial Intelli
 ### 3. **Flow Cytometry Research**  
 - Analyzed autoimmune pathologies through advanced cytometric techniques, contributing to clinical research protocols.  
 
-## 📫 Let's Connect!  
+## 🫰 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/daryana-m-ba1496123/)  
 - 🌐 [Portfolio](https://daryanaur.github.io/) (Under construction)
 - ✉️ Email: daryanauribe25@gmail.com 
