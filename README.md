@@ -1,4 +1,4 @@
-# :octocat: Welcome to my GitHub!  
+# 👩‍💻 Welcome to my GitHub!  
 
 Hi there! I'm Daryana, a Biomedical Engineer passionate about Artificial Intelligence and innovative healthcare data science applications.  
 
