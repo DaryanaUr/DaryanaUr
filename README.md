@@ -16,14 +16,22 @@ Hi there! I'm Daryana, a Biomedical Engineer passionate about Artificial Intelli
 
 ## 📂 Featured Projects  
 ### 1. **Phobia Therapy System**  
-- Developed an adaptable VR/AR therapy system using AI and biofeedback for gradual exposure treatment.  
-- Tools: Python, Unity, XR technologies.  
+_Tools: Python, Unity, VR technologies_
+- Built proof-of-concept of adaptive therapy using real-time physiological input (stress, heart rate). 
+-	Integrated a Deep Learning Algorithm to change the VR environment based on user response.
 
-### 2. **Medical Data Visualization**  
-- Designed dashboards in Power BI and Excel for hospital equipment totalization and decision-making.  
+### 2. **Immune Response Analysis via Flow Cytometry**  
+_Tools: FlowJo, Excel, Python (pandas & matplotlib)_
+-	Cleaned and structured raw flow cytometry datasets.
+-	Visualized variations in immune marker expression across different experimental conditions.
+-	Supported hypothesis testing on immune cell activation using data-driven insights.
 
-### 3. **Flow Cytometry Research**  
-- Analyzed autoimmune pathologies through advanced cytometric techniques, contributing to clinical research protocols.  
+### 3. **COVID-19 Device Trade Analysis**  
+_Tools: Excel, Python (pandas & matplotlib)_
+-	Visualized and interpreted shifts in import/export activity across 3 years (pre, during, and post pandemic).
+-	Identified trade pattern changes and visualized trends using custom graphs.
+-	Supported evidence-based policymaking for public health logistics and international medical supply regulation.
+  
 
 ## 🫰 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/daryana-m-ba1496123/)  
