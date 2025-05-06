@@ -28,7 +28,7 @@ _Tools: FlowJo, Excel, Python (pandas & matplotlib)_
 
 ### 3. **COVID-19 Device Trade Analysis**  
 _Tools: Excel, Python (pandas & matplotlib)_
--	Visualized and interpreted shifts in import/export activity across 3 years (pre, during, and post pandemic).
+-	Analysis of medical device imports/exports over 3 years (before, during, and after the pandemic). 
 -	Identified trade pattern changes and visualized trends using custom graphs.
 -	Supported evidence-based policymaking for public health logistics and international medical supply regulation.
   
