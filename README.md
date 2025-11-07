@@ -1,6 +1,6 @@
 # 👩‍💻 Welcome to my GitHub!  
 
-Hi there! I'm Daryana, a Biomedical Engineer passionate about Artificial Intelligence and innovative healthcare data science applications.  
+Hi there! I'm Daryana, a Biomedical Engineer passionate about innovative healthcare data science applications.  
 
 ## 🌟 About Me  
 - 🎓 **Background**: Biomedical Engineer with medical technologies and programming expertise.  
